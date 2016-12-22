@@ -22,4 +22,5 @@ Checkout git clone
 	$ cd OnboardRocks
 
 Step 1-: Docker build 
-		docker-compose up -d
+	
+		$ docker-compose up -d
