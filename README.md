@@ -13,3 +13,13 @@ Return sales history for property based on property ID
 Return county tax assessment for property based on property ID
 Return AVM for property based on property ID
 By default MINI allows user access to /public folder. The rest of the application (including .git files, swap files, etc) is not accessible.
+
+Install Docker and Docker compose
+
+Checkout git clone 
+
+	$ git clone https://github.com/arvindr226/OnboardRocks.git
+	$ cd OnboardRocks
+
+Step 1-: Docker build 
+		docker-compose up -d
