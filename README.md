@@ -1,4 +1,6 @@
 # OnboardRocks
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farvindr226%2FOnboardRocks.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Farvindr226%2FOnboardRocks?ref=badge_shield)
+
 #What is Onboard Rocks ?
 
 An open-source PHP application using the Onboard Informatics Property API. It is based on 150 million US property records. View a live demo here http://onboard.rocks/, Sign up for developer access to the API here, [https://developer.onboard-apis.com/].
@@ -24,3 +26,7 @@ Checkout git clone
 Step 1-: Docker build 
 	
 		$ docker-compose up -d
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farvindr226%2FOnboardRocks.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Farvindr226%2FOnboardRocks?ref=badge_large)
